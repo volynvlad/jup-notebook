@@ -2,6 +2,9 @@
 ./digit_recognition/data
 ./digit_recognition/logs
 ./digit_recognition/tmp.*
+./digit_recognition/.*
 ./House Prices Advanced Regression Techniques/data
 ./House Prices Advanced Regression Techniques/*.png
+./House Prices Advanced Regression Techniques/.*
 ./Titanic/data
+./Titanic/.*
