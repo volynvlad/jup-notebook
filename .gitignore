@@ -1,3 +1,4 @@
+.*
 ./digit_recognition/checkpoint
 ./digit_recognition/data
 ./digit_recognition/logs
