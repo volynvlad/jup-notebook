@@ -1,0 +1,7 @@
+./digit_recognition/checkpoint
+./digit_recognition/data
+./digit_recognition/logs
+./digit_recognition/tmp.*
+./House Prices Advanced Regression Techniques/data
+./House Prices Advanced Regression Techniques/*.png
+./Titanic/data
