@@ -1,12 +1,12 @@
 .*
 ./digit_recognition/checkpoint
-./digit_recognition/data
+./digit_recognition/data/*
 ./digit_recognition/logs
 ./digit_recognition/tmp.*
 ./digit_recognition/.*
-./House Prices Advanced Regression Techniques/data
-./House Prices Advanced Regression Techniques/*.png
-./House Prices Advanced Regression Techniques/.*
-./Titanic/data
+./HousePricesAdvancedRegressionTechniques/data/*
+./HousePricesAdvancedRegressionTechniques/*.png
+./HousePricesAdvancedRegressionTechniques/.*
+./Titanic/data/*
 ./Titanic/.*
-./tf_example/data
+./tf_example/data/*
