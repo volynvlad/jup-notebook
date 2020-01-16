@@ -4,3 +4,6 @@
 ./*/.*
 ./*/*.csv
 tf_example/*.h5
+.*
+kaggle/data/
+kaggle/*/.*
